@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-11-16T11:31:26Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.62,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB__ARDUINO_SKYWRITTER_3D"
+        },
+        "Owner": "Pedro Melendez Del Pozo <pedro.melendez.delpozo@alumnos.upm.es>",
+        "Size": {
+            "X": 89.84,
+            "Y": 54.6
+        }
+    }
+}

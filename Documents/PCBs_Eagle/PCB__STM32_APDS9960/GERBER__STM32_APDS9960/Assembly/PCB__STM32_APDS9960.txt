@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/pedro/Desktop/TFG_Pedro/PCB_eagle/PCB__STM32_APDS9960/PCB__STM32_APDS9960.sch at 16/11/2023 12:08
+
+Qty Value    Device       Package        Parts                       Description                                                  MF                   MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+3            AK500/2      AK500/2        INPUT, MOTOR_DOWN, MOTOR_UP CONNECTOR                                                                             unknown    unknown   14                    
+1            BLUE_PILL    BLUE_PILL      U$1                                                                                                                                                          
+2            PINHD-1X2    1X02           SWD, SWU                    PIN HEADER                                                                                                 98                    
+1            PINHD-1X3    1X03           UART                        PIN HEADER                                                                                                 92                    
+1            PINHD-1X6    1X06           *APDS9960                   PIN HEADER                                                                                                 79                    
+6            R-US_0207/10 0207/10        R1, R2, R3, R4, R5, R6      RESISTOR, American symbol                                                                                  36         R          
+2   1N4446   1N4446       DO35-10        D1, D2                      DIODE                                                                                                      2                     
+2   2N3904   2N3904       TO92           Q1, Q2                      NPN Transistor                                                                                             0                     
+2   RELAYPTH RELAYPTH     SRD-05VDC-SL-C RELAY1, RELAY2              SPDT relay (COM-00101)                                                                                                           
+2   TLLR4400 TLLR4400     LED3MM         LED1, LED2                  Low Current (2mA) LED 3 mm Tinted Diffused Package color RED VISHAY SEMICONDUCTOR     1612437              2                     
