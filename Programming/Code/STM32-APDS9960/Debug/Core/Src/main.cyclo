@@ -1,0 +1,15 @@
+main.cpp:106:6:void send_uart_to_transmit(char*)	1
+main.cpp:112:6:void HAL_GPIO_EXTI_Callback(uint16_t)	2
+main.cpp:125:5:int main()	21
+main.cpp:298:6:void SystemClock_Config()	3
+main.cpp:338:13:void MX_I2C1_Init()	2
+main.cpp:372:13:void MX_USART2_UART_Init()	2
+main.cpp:405:13:void MX_GPIO_Init()	1
+main.cpp:448:6:void handleGesture()	8
+main.cpp:485:6:void motor_up()	1
+main.cpp:494:6:void motor_down()	1
+main.cpp:503:6:void stop_system()	1
+main.cpp:516:6:void Error_Handler()	1
+main.cpp:525:1:void __static_initialization_and_destruction_0(int, int)	5
+main.cpp:525:1:cpp)	1
+main.cpp:525:1:cpp)	1

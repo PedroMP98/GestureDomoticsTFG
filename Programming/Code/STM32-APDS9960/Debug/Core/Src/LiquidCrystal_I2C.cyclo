@@ -1,0 +1,31 @@
+LiquidCrystal_I2C.cpp:42:6:void LCD_Init(uint8_t)	2
+LiquidCrystal_I2C.cpp:97:6:void LCD_Clear()	1
+LiquidCrystal_I2C.cpp:103:6:void LCD_Home()	1
+LiquidCrystal_I2C.cpp:109:6:void LCD_SetCursor(uint8_t, uint8_t)	2
+LiquidCrystal_I2C.cpp:119:6:void LCD_NoDisplay()	1
+LiquidCrystal_I2C.cpp:125:6:void LCD_Display()	1
+LiquidCrystal_I2C.cpp:131:6:void LCD_NoCursor()	1
+LiquidCrystal_I2C.cpp:137:6:void LCD_Cursor()	1
+LiquidCrystal_I2C.cpp:143:6:void LCD_NoBlink()	1
+LiquidCrystal_I2C.cpp:149:6:void HD44780_Blink()	1
+LiquidCrystal_I2C.cpp:155:6:void LCD_ScrollDisplayLeft()	1
+LiquidCrystal_I2C.cpp:160:6:void LCD_ScrollDisplayRight()	1
+LiquidCrystal_I2C.cpp:165:6:void LCD_LeftToRight()	1
+LiquidCrystal_I2C.cpp:171:6:void LCD_RightToLeft()	1
+LiquidCrystal_I2C.cpp:177:6:void LCD_AutoScroll()	1
+LiquidCrystal_I2C.cpp:183:6:void LCD_NoAutoScroll()	1
+LiquidCrystal_I2C.cpp:189:6:void LCD_CreateSpecialChar(uint8_t, uint8_t*)	2
+LiquidCrystal_I2C.cpp:199:6:void LCD_PrintSpecialChar(uint8_t)	1
+LiquidCrystal_I2C.cpp:204:6:void LCD_LoadCustomCharacter(uint8_t, uint8_t*)	1
+LiquidCrystal_I2C.cpp:209:6:void LCD_PrintStr(const char*)	2
+LiquidCrystal_I2C.cpp:214:6:void LCD_SetBacklight(uint8_t)	2
+LiquidCrystal_I2C.cpp:220:6:void LCD_NoBacklight()	1
+LiquidCrystal_I2C.cpp:226:6:void LCD_Backlight()	1
+LiquidCrystal_I2C.cpp:232:13:void SendCommand(uint8_t)	1
+LiquidCrystal_I2C.cpp:237:13:void SendChar(uint8_t)	1
+LiquidCrystal_I2C.cpp:242:13:void Send(uint8_t, uint8_t)	1
+LiquidCrystal_I2C.cpp:250:13:void Write4Bits(uint8_t)	1
+LiquidCrystal_I2C.cpp:256:13:void ExpanderWrite(uint8_t)	1
+LiquidCrystal_I2C.cpp:262:13:void PulseEnable(uint8_t)	1
+LiquidCrystal_I2C.cpp:271:13:void DelayInit()	1
+LiquidCrystal_I2C.cpp:287:13:void DelayUS(uint32_t)	2

@@ -1,0 +1,31 @@
+../Core/Src/LiquidCrystal_I2C.cpp:42:6:void LCD_Init(uint8_t)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:97:6:void LCD_Clear()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:103:6:void LCD_Home()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:109:6:void LCD_SetCursor(uint8_t, uint8_t)	40	static
+../Core/Src/LiquidCrystal_I2C.cpp:119:6:void LCD_NoDisplay()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:125:6:void LCD_Display()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:131:6:void LCD_NoCursor()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:137:6:void LCD_Cursor()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:143:6:void LCD_NoBlink()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:149:6:void HD44780_Blink()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:155:6:void LCD_ScrollDisplayLeft()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:160:6:void LCD_ScrollDisplayRight()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:165:6:void LCD_LeftToRight()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:171:6:void LCD_RightToLeft()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:177:6:void LCD_AutoScroll()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:183:6:void LCD_NoAutoScroll()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:189:6:void LCD_CreateSpecialChar(uint8_t, uint8_t*)	24	static
+../Core/Src/LiquidCrystal_I2C.cpp:199:6:void LCD_PrintSpecialChar(uint8_t)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:204:6:void LCD_LoadCustomCharacter(uint8_t, uint8_t*)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:209:6:void LCD_PrintStr(const char*)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:214:6:void LCD_SetBacklight(uint8_t)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:220:6:void LCD_NoBacklight()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:226:6:void LCD_Backlight()	8	static
+../Core/Src/LiquidCrystal_I2C.cpp:232:13:void SendCommand(uint8_t)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:237:13:void SendChar(uint8_t)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:242:13:void Send(uint8_t, uint8_t)	24	static
+../Core/Src/LiquidCrystal_I2C.cpp:250:13:void Write4Bits(uint8_t)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:256:13:void ExpanderWrite(uint8_t)	32	static
+../Core/Src/LiquidCrystal_I2C.cpp:262:13:void PulseEnable(uint8_t)	16	static
+../Core/Src/LiquidCrystal_I2C.cpp:271:13:void DelayInit()	4	static,ignoring_inline_asm
+../Core/Src/LiquidCrystal_I2C.cpp:287:13:void DelayUS(uint32_t)	32	static
